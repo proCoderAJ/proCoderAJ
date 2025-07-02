@@ -15,7 +15,7 @@
 
 🎓 B.Tech CSE student at Maharana Pratap Engineering College (2022–2026)  
 🛠 Building projects in **Python, C++, React, Node.js, GCP, and AWS**  
-🌱 Currently diving deeper into **DevOps, ML, and Cloud Architectures**  
+🌱 Currently diving deeper into **Full Stack, Data Analysis, and  Cloud Architectures**  
 💡 Love solving real-world problems and collaborating on meaningful projects  
 📫 Reach me: [abhishekjoshi2026@gmail.com](mailto:abhishekjoshi2026@gmail.com)
 
