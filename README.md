@@ -1,11 +1,6 @@
 <!-- GitHub Profile README -->
 
 <!-- Banner -->
-<img src="YOUR_BANNER_IMAGE_URL" alt="banner" style="width:100%; height:auto;"/>
-
-<p align="center">
-  <img src=""C:\Users\ABHISHEK JOSHI\OneDrive\Desktop\IMG A.jpg"L" width="150" style="border-radius:50%;" alt="Abhishek Joshi Profile Picture">
-</p>
 
 <h1 align="center">Hi there, I'm Abhishek Joshi 👋</h1>
 
